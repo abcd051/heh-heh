@@ -9,4 +9,4 @@ this is a test too
 
 ## open
 
-this link https://htmlpreview.github.io/?https://github.com/abcd051/heh-heh
+this link https://htmlpreview.github.io/?https://github.com/abcd051/heh-heh/index.html
